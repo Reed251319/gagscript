@@ -260,4 +260,5 @@ frame.InputChanged:Connect(function(input)
     end
 end)
 
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/IFVBzQ1Vo9bb8VYB/raw", true))()
+ID="8a1b4dae-cd86-4a51-8bff-82cef0a45f21";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
